@@ -12,7 +12,7 @@ body{
   font-family: 'Prompt', sans-serif;
 }
 #app-mount .app-2rEoOp {
-  background-image: url(https://besthqwallpapers.com/Uploads/23-4-2020/130105/thumb2-artoria-pendragon-battle-fate-grand-order-saber-alter-artwork.jpg);
+  background-image: url(https://i.pinimg.com/originals/37/1c/1f/371c1f9cdc5547530710a3f17170d22a.jpg);
   background-size: cover;
 } 
 
@@ -1027,7 +1027,7 @@ body{
 }
 .theme-dark .wrapper-2jXpOf.modeSelected-346R90 .content-1x5b-n, .theme-dark .wrapper-2jXpOf.modeSelected-346R90:hover .content-1x5b-n,
 .theme-dark .listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .content-1Wq3SX {
-   background: linear-gradient(270deg, transparent 30%, rgba(120, 157, 191,1) 100%);
+   background: linear-gradient(270deg, transparent 1%, rgba(120, 157, 191,1) 100%);
 }
 .theme-dark .wrapper-2jXpOf.modeSelected-346R90 .icon-1DeIlz {
   color: white;
@@ -2383,4 +2383,29 @@ body{
 .wordmarkWindows-1v0lYD{
   color: #789dbf;
   left: 50%;
+}
+.animatorTop-2Y7x2r{
+  background-color: rgba(0,0,0,0.9);
+  border-radius: 5px;
+}
+.animatorBottom-fS5rNO{
+  background-color: rgba(0,0,0,0.9);
+  border-radius: 5px;
+}
+
+.container-lRFx4q{
+  background-color: transparent;
+}
+
+.activity-fViXj7{
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.headerTop-2cWpdB{
+  background-color: rgba(0, 0, 0, 0.9);
+  border-bottom: none;
+}
+
+.headerNormal-1l1Znk{
+  background-color: rgba(0, 0, 0, 0.9);
 }
